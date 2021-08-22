@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Aakashsinha007
+- 👋 Hi, I’m Aakash
 - 👀 I’m interested in Excel VBA
-- 🌱 I’m currently learning Excel VBa
+- 🌱 I’m currently learning Excel VBA
 - 💞️ I’m looking to collaborate on this language
 - 📫 How to reach me 9599824651
 
